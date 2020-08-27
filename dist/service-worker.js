@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/apple-bill/dist/precache-manifest.d1dda4b17c1cd17a97f56d3fe0cd78ff.js"
+  "/apple-bill-website/dist/precache-manifest.9198fa3af2efd7f8396048fea15cb72f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mango-bill"});
